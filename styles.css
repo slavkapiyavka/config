@@ -1,1 +1,10 @@
 /* файл стилей */
+.selector {
+  display: flex;
+  flex-direction: column-reverse;
+  margin-top: 20px;
+
+  font-size: 10px;
+
+  opacity: 1;
+}
